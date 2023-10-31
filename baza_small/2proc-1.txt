@@ -1,0 +1,27 @@
+Parametry kredytu
+    okres spłaty – min. 15 lat,
+    waluta kredytu – PLN,
+    maksymalna kwota kredytu:
+        500 tys. zł,
+        600 tys. zł jeśli prowadzisz gospodarstwo domowe wspólnie z małżonkiem lub w skład Twojego gospodarstwa domowego wchodzi co najmniej jedno dziecko,
+        100 tys. zł na dokończenie budowy domu jeśli:
+            budowałeś go do tej pory za gotówkę,
+            prowadzisz jednoosobowe gospodarstwo domowe,
+        150 tys. zł na dokończenie budowy domu jeśli:
+            budowałeś go do tej pory za gotówkę,
+            prowadzisz gospodarstwo domowe wspólnie z małżonkiem lub w skład Twojego gospodarstwa domowego wchodzi co najmniej jedno dziecko,
+    kredyt będzie udzielany do 31 grudnia 2027 r. (a w przypadku kredytu na dokończenie bu-dowy domu do 31 grudnia 2025 r.)
+    rodzaj stopy oprocentowania kredytu – okresowo stała w okresie pierwszych 120 miesięcy spłaty kredytu, ustalana na okres 60 miesięcy,
+    okres stosowania dopłat do rat – 120 miesięcy,
+    sposób spłaty:
+        w okresie stosowania dopłat do rat kredytu spłacasz kredyt w ratach malejących, czyli raty kredytu w części kapitałowej są równe (z uwzględnieniem całego okresu kredytowania),
+        po wygaśnięciu dopłat – w ratach równych, chyba że złożysz wniosek o utrzymanie dotychczasowego sposobu spłaty,
+    jeśli nie masz wkładu własnego albo Twój wkład własny jest niższy niż 20 proc. całkowitej kwoty wydatków, w celu pokrycia których udzielany jest ten kredyt, różnica pomiędzy 20 proc. całkowitej kwoty wydatków, a Twoim wkładem własnym będzie objęta gwarancją wkładu własnego w BGK.
+
+Wkład własny
+Możesz złożyć wniosek o Bezpieczny kredyt 2 procent jeśli:
+    nie masz wkładu własnego,
+    Twój wkład własny jest nie wyższy niż 200 tys. zł,
+    bez powyższego ograniczenia, jeśli wkładem własnym jest wyłącznie:
+        nieruchomość gruntowa niezabudowana domem jednorodzinnym/budynkiem z lokalem mieszkalnym/obiektami związanymi z budową takiego domu/budynku lub,
+        łączna kwota środków pieniężnych i premii mieszkaniowej wypłacanych zgodnie z ustawą z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe z zastrze-żeniem, że łączna wysokość wkładu własnego i bezpiecznego kredytu 2 procent nie może być wyższa niż 1 mln zł.

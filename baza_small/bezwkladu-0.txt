@@ -1,0 +1,22 @@
+Program Mieszkanie bez wkładu własnego kredyty hipoteczne
+Rodzinny kredyt mieszkaniowy z opcjonalną gwarancją wkładu własnego przez BGK.
+Program „Mieszkanie bez wkładu własnego” umożliwia zaciągnięcie kredytu hipotecznego do 100% wydatków z gwarancją spłaty części kredytu w ramach portfelowej linii gwarancyjnej Rządowego Funduszu Mieszkaniowego (PLG-RFM) oraz, po spełnieniu określnych warunków, skorzystanie ze spłaty rodzinnej.
+Opcjonalna gwarancja spłaty części kredytu w ramach rodzinnego kredytu mieszkaniowego jest zabezpieczeniem spłaty kredytu hipotecznego, która jest udzielana na warunkach określonych w ustawie z 1 października 2021 r. o rodzinnym kredycie mieszkaniowym.
+Spłata rodzinna będzie przysługiwać jeśli w okresie spłaty kredytu hipotecznego objętego gwarancją na warunkach określonych w ustawie z 1 października 2021 r. o rodzinnym kredycie mieszkaniowym, gospodarstwo domowe Kredytobiorcy powiększy się o drugie albo kolejne dziecko. 
+
+Parametry gwarancji Banku Gospodarstwa Krajowego
+    Zakres gwarancji - 0- 20% wydatków, w celu pokrycia których udzielany jest kredyt (różnica między kwotą odpowiadającą 20% całkowitej kwoty wydatków, w celu pokrycia których jest udzielany ten kredyt, a wkładem własnym Kredytobiorcy);
+    Maksymalna kwota gwarancji - 100 tys. zł
+    Jednorazowa prowizja za udzielenie gwarancji wynosi 1% kwoty gwarancji (prowizja jest pobierana przez Bank Gospodarstwa Krajowego za pośrednictwem Alior Bank SA)
+
+Parametry kredytu
+    Cel kredytu związany z finansowaniem nabycia prawa własności/ spółdzielczego prawa do lokalu mieszkalnego z jego wykończeniem, remontem oraz wkładem budowlanym,
+    Okres spłaty kredytu - min. 15 lat
+    Waluta kredytu – PLN
+    Spłata kredytu w ratach równych lub malejących
+    Stopa procentowa zmienna lub okresowo stała stopa procentowa
+    Rodzinny kredyt mieszkaniowy może zostać udzielony bez wkładu własnego Kredytobiorcy albo z wkładem własnym Kredytobiorcy nie wyższym niż 200 000 zł oraz nieprzekraczającym kwoty stanowiącej:
+        20% całkowitej kwoty wydatków, w celu pokrycia których jest udzielany – w przypadku gdy jest udzielany jako kredyt o zmiennej stopie procentowej,
+        30% całkowitej kwoty wydatków, w celu pokrycia których jest udzielany – w przypadku gdy jest udzielany jako kredyt o okresowo stałej stopie procentowej, przy czym okres, dla którego stopa procentowa ma stały poziom, wynosi co najmniej 5 lat,
+        W przypadku gdy wkładem własnym Kredytobiorcy jest wyłącznie nieruchomość gruntowa, rodzinny kredyt mieszkaniowy może zostać udzielony bez spełnienie warunków powyżej, z tym że łączna wysokość wkładu własnego Kredytobiorcy oraz tego kredyty nie może być wyższa niż 1 000 000 zł.
+    Program jest dostępny dla wszystkich ofert kredytu hipotecznego Alior Bank Spółka Akcyjna z siedzibą w Warszawie, których cel finansowania spełnia warunki udzielenia rodzinnego kredytu mieszkaniowego w ramach portfelowej linii gwarancyjnej rządowego Funduszu Mieszkaniowego (PLG-RFM) określonych w ustawie z 1 października 2022 r. o rodzinnym kredycie mieszkaniowym, jednak nie dłużej niż do 31 grudnia 2030 r.
